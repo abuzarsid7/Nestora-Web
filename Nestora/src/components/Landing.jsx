@@ -33,7 +33,7 @@ const Landing = () => {
             Nestora helps you create distraction-free focus sessions with customizable ambient sounds, session tracking, and productivity insights.
           </p>
           <div className="animate-fade-in delay-200">
-            <a href="#" className="btn btn-primary">
+            <a href="https://apps.apple.com/us/app/nestora/id6777993756" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
               <Apple size={24} />
               Available on the App Store
             </a>
