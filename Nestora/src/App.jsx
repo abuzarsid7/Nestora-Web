@@ -29,7 +29,7 @@ function App() {
             <Link to="/privacy">Privacy Policy</Link>
           </div>
           <p>Questions? Contact <a href="mailto:support@abitechpros.com">support@abitechpros.com</a></p>
-          <p style={{ marginTop: '1rem', fontSize: '0.875rem' }}>&copy; {new Date().getFullYear()} Nestora. All rights reserved.</p>
+          <p style={{ marginTop: '1rem', fontSize: '0.875rem' }}>&copy; {new Date().getFullYear()} Nestora. Developed by Abuzar Siddiqui. All rights reserved.</p>
         </footer>
       </div>
     </Router>

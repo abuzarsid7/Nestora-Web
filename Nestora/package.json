@@ -2,6 +2,7 @@
   "name": "Nestora",
   "private": true,
   "version": "0.0.0",
+  "author": "Abuzar Siddiqui",
   "type": "module",
   "scripts": {
     "dev": "vite",
